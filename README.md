@@ -6,7 +6,7 @@ i. Deskripsi Singkat
   
 ii. Cara Instalasi
   1. Pergi ke link github.com/naufalanargya/FinalProjectTTS dan download dalam zip. Ekstrak ke folder yang anda mau di komputer anda.
-  2. Buka folder di vscode
+  2. Buka folder di vscode atau compiler lainnya
   3. Buka terminal dan jalankan ```npm install``` setelah clone dari repo untuk install semua dependencies
   4. Setting mongoDB connection pada file ```.env```, jika belum download bisa download terlebih dahulu.
   5. Jalankan ```npm start``` untuk menjalankan server
