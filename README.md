@@ -1,4 +1,5 @@
 Final Project ARC - TTS
+
 i. Deskripsi Singkat
   Website  Teka Teki Silang (TTS) ini dibuat dalam rangka menyelesaikan tugas final project ARC yang diberikan pada Day-5 ARC. TTS yang kami buat terdiri dari 3 level yang mana  tema untuk pertanyaan dan jawaban yang kita pakai adalah "Networking" sesuai dengan materi yang disampaikan pada Day-4 ARC. Website TTS ini memiliki stopwatch yang akan menghitung seberapa cepat pemain menyelesaikan ketiga level yang disediakan. Pemain perlu mengisi TTS yang kosong dengan cara memencet tombol "PILIH" pada pertanyaan yang ingin dijawab. Jika jawaban benar, kolom tersebut akan terkunci dan berubah dalam keadaan disabled. Setelah pemain menyelesaikan semua pertanyaan pada level, tombol "NEXT LEVEL" akan muncul dibawah teka teki silang untuk berganti ke level selanjutnya. Saat pemain menyelesaikan ketiga level, lama pemain menyelesaikan TTS akan tercatat di leaderboard.
   
